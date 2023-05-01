@@ -5,6 +5,7 @@ body{
     display: grid;
     place-content: center;
     min-height: 100vh;
+      font-family: 'Righteous', cursive;
 }
 
 .App {
